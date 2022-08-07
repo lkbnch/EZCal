@@ -13,7 +13,6 @@ print(rows)
 
 
 
-
 def split_event():
     # split event into work blocks + 5 min breaks
     pass
