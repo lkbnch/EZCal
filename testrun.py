@@ -23,8 +23,6 @@ timezone = 'America/New_York'
 
 event = {
   'summary': 'Google I/O 2015',
-  'location': '800 Howard St., San Francisco, CA 94103',
-  'description': 'A chance to hear more about Google\'s developer products.',
   'start': {
     'dateTime': start_time.strftime("%Y-%m-%dT%H:%M:%S"),
     'timeZone': timezone,
@@ -32,13 +30,6 @@ event = {
   'end': {
     'dateTime': end_time.strftime("%Y-%m-%dT%H:%M:%S"),
     'timeZone': timezone,
-  },
-  'reminders': {
-    'useDefault': False,
-    'overrides': [
-      {'method': 'email', 'minutes': 24 * 60},
-      {'method': 'popup', 'minutes': 10},
-    ],
   },
 }
 
