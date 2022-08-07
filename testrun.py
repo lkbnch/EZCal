@@ -25,6 +25,7 @@ event = {
   'summary': 'Google I/O 2015',
   'location': '335 Madison Ave, New York, NY 03827',
   'description': 'A chance to hear more about Google\'s developer products.',
+
   'start': {
     'dateTime': start_time.strftime("%Y-%m-%dT%H:%M:%S"),
     'timeZone': timezone,
@@ -32,13 +33,6 @@ event = {
   'end': {
     'dateTime': end_time.strftime("%Y-%m-%dT%H:%M:%S"),
     'timeZone': timezone,
-  },
-  'reminders': {
-    'useDefault': False,
-    'overrides': [
-      {'method': 'email', 'minutes': 24 * 60},
-      {'method': 'popup', 'minutes': 10},
-    ],
   },
 }
 
