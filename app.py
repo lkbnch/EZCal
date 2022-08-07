@@ -20,6 +20,13 @@ def index():
     todo_list = Todo.query.all()
     print(todo_list)
     return render_template('base.html', todo_list=todo_list)
+    
+
+@app.route("/addtocal", methods=["POST"])
+def addtocal():
+    
+    print("TESTING")
+    return redirect(url_for("index"))
 
 @app.route("/add", methods=["POST"])
 def add():
