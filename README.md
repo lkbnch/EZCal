@@ -1,5 +1,7 @@
 ![E-ZCal](/assets/logo.png)
 
+## View this project on [Devpost](https://devpost.com/software/ezcal)
+
 # Inspiration
 With the topic of “The Future of Productivity” being an option, we knew what we had to pick. As we become more technologically advanced, we’re slowly becoming less productive as it’s easier to get distracted. We figured one of the best ways to increase productivity was to tackle one of the main issues most people face with being productive, which is that it’s too difficult to find the balance between working and breaks! As college students who face a lot of difficulty with managing our work-life balance and finding convenient times for working and relaxing, we wanted to make something that would help us as much as it would help others. Our thought process was that if we were able to create a convenient way for our tasks to be spaced out throughout the day with appropriate breaks, that would increase our own productivity as much as it would anyone else. If you take the blunt work out of anything, people will surely gravitate towards it. And from there, with the hopes of creating something that could one day be of aid to us, we knew what we had to make.
 
